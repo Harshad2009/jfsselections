@@ -27,7 +27,7 @@ export const candidates = [
   },
   {
     name: "Aria Raptopoulos",
-    image: "/candidates/grade9/AriaHeadshot.JPG",
+    image: "/candidates/grade9/AriaHeadshot.jpg",
     role: "grade 9 rep",
     poster: "/candidates/grade9/posters/AriaPoster.png",
     video: "/candidates/grade9/video/AriaVideo.mp4",
