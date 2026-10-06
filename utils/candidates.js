@@ -169,7 +169,7 @@ export const candidates = [
     image: "/candidates/grade12/CatherineHeadshot.png",
     role: "grade 12 rep",
     poster: "/candidates/grade12/posters/CatherinePoster.png",
-    video: "/candidates/grade12/video/CatherineVideo.mov",
+    video: "/candidates/grade12/video/CatherineVideo.mp4",
   },
   {
     name: "Kristiano Rodriguez",
