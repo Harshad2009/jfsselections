@@ -27,9 +27,9 @@ export const candidates = [
   },
   {
     name: "Aria Raptopoulos",
-    image: "/candidates/grade9/AriaHeadshot.jpg",
+    image: "/candidates/grade9/AriaHeadshot.JPG",
     role: "grade 9 rep",
-    poster: "/candidates/grade9/posters/AriaPoster.jpg",
+    poster: "/candidates/grade9/posters/AriaPoster.png",
     video: "/candidates/grade9/video/AriaVideo.mp4",
   },
   {
@@ -183,7 +183,7 @@ export const candidates = [
     image: "/candidates/grade12/grade12rep4.jpg",
     role: "grade 12 rep",
     poster: "/candidates/grade12/posters/LeenPoster.png",
-    video: "",
+    video: "/candidates/grade12/video/LeenVideo.MOV",
   },
   {
     name: "Mannit Dahiya",
@@ -211,13 +211,13 @@ export const candidates = [
     image: "/candidates/grade12/YemJbourHeadshot.jpg",
     role: "grade 12 rep",
     poster: "/candidates/grade12/posters/YemJbourPoster.png",
-    video: "",
+    video: "/candidates/grade12/video/YemJbourVideo.mov",
   },
   {
     name: "Zoya Chaudhry",
     image: "/candidates/grade12/grade12rep9.jpg",
     role: "grade 12 rep",
-    poster: "",
-    video: "",
+    poster: "/candidates/grade12/posters/ZoyaPoster.png",
+    video: "/candidates/grade12/video/ZoyaVideo.mov",
   },
 ];
